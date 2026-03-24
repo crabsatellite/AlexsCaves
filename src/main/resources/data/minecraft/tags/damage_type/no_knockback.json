@@ -2,6 +2,7 @@
   "replace": false,
   "values": [
     "alexscaves:radiation",
-    "alexscaves:raygun"
+    "alexscaves:raygun",
+    "alexscaves:acid"
   ]
 }
